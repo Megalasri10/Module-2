@@ -11,9 +11,16 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
-
-Add code Here
+```
+def result(a, b):
+    print("The modulo is:", a % b)
+a = 15
+b = 2
+result(a, b)
+```
 
 ## Output
+<img width="1667" height="377" alt="image" src="https://github.com/user-attachments/assets/14d19707-9c9e-47b8-ad65-bca739dc0034" />
 
 ## Result
+The code is executed successfully.
